@@ -24,3 +24,5 @@ I've set up a website, but I don't have anything worth looking at yet. I set pre
 
 Regards,
 Nanci
+
+P.S. Zak showed us how to integrate our GitHub account into Visual Studio Code, so I completed that step on my laptop and am updating the file here. Hopefully, you will see this message in my repo if I did everything correctly. 
