@@ -10,6 +10,6 @@ We are studying:
 * JavaScript
 
 Here is a picture of my favorite animal:
-![alt text](https://codeharmony.tech/images/hamster.jpeg)
+![cat pic from PlaceImg.com](http://placeimg.com/150/150/animals)
 
-I think I still have a [Twitter account]:(path to twitter home page goes here)
+I think I still have a [Twitter account]:(https://www.twitter.com/nancib13)
