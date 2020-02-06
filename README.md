@@ -12,7 +12,7 @@ Here is a picture of one of my favorite animals. I actually love almost all anim
 I'm into new technologies, but not social media, so I don't have personal stuff to link to on the web. Anyway, I set up a new Twitter account:[ @nancib13](https://www.twitter.com/nancib13). I'll probably forget the password and it will be deactivated in 2-3 months. No biggie.
 
 ## FEWD
- _**FEWD**_ is a free, two-semester program offered at **San Diego Continuing Education**. We are studying:
+ _**FEWD**_(Front End Web Development) is a free, two-semester program offered at **San Diego Continuing Education**. We are studying:
 * HTML
 * CSS
 * JavaScript
