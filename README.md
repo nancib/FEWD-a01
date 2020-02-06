@@ -5,6 +5,8 @@ FEWD Assignment 1
 Hello, my name is **Nanci**. I'm studying to become a front-end web developer. 
 
 Here is a picture of one of my favorite animals. I actually love almost all animals, but I have allergies so I have to stay away from them. Yes, it's very sad. :(
+
+
 ![cat pic from PlaceImg.com](http://placeimg.com/150/150/animals)
 
 I'm into new technologies, but not social media, so I don't have personal stuff to link to on the web. Anyway, I set up a new Twitter account:[ @nancib13](https://www.twitter.com/nancib13). I'll probably forget the password and it will be deactivated in 2-3 months. No biggie.
